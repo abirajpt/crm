@@ -1,0 +1,7 @@
+.port{
+    height: 100vh;
+}
+.grad{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(186,213,210,0.0760679271708683) 67%, rgba(0,212,255,1) 100%);
+}
